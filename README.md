@@ -17,3 +17,6 @@
 
 3. In `deno.json` add `nodeModules: "auto"`
    - install any dependency with deno. For example: `deno add npm:pinia`
+
+## Current project as it is on deno deploy
+[https://vite-extra-vue.deno.dev/](https://vite-extra-vue.deno.dev/)
